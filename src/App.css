@@ -5,6 +5,11 @@
   text-align: center;
 }
 
+body {
+  background-color: black;
+  color: white;
+  font-family: Arial, sans-serif; /* Set your preferred font family */
+}
 .logo {
   height: 6em;
   padding: 1.5em;
